@@ -14,6 +14,7 @@ import 'package:mk/shared/styles/themes.dart';
 
 import '../shared/components/constants.dart';
 
+// HELLO ABO KARAM
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   //IMPORT TO FINISH ALL FUTURE FUNCTION THEN RUN APP
